@@ -1,0 +1,6 @@
+export enum BUCKET_ITEM_STATUS {
+	ACHIVED,
+	NOT_ACHIVED,
+	FAIL
+}
+
